@@ -1,7 +1,7 @@
-# ClickUp Assistant — n8n Workflows
+# ZhuLi — n8n Workflows
 
 ## Projekt
-Persönliche Assistenz auf Basis von n8n + ClickUp. Workflows leben auf dem VPS in der n8n-Instanz und werden hier als JSON versioniert.
+Persönliche Assistenz "ZhuLi" auf Basis von n8n + ClickUp. Workflows leben auf dem VPS in der n8n-Instanz und werden hier als JSON versioniert.
 
 ## Architektur
 - **n8n läuft auf VPS** (`tobadin@187.124.3.125`), Container `n8n`, URL `https://n8n.tobiasseidl.de`
